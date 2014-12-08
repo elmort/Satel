@@ -1,0 +1,6 @@
+Sprawdzanie stanu konta:
+stan=*101#=
+
+Odpowiedü: 
+Stan konta: 00,00 zl. Konto wazne do DD-MM-RRRR + 1 miesiac na odbieranie
+1. Back

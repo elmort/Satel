@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Satel</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ustawienia">Ustawienia</string>
+    <string name="title_activity_ustawienia">Ustawienia</string>
+    <string name="Wprowadz">Wprowadź numer karty SIM centrali</string>
+    <string name="Uwaga_SIM">Numer telefonu którego używa aplikacja musi być na liście wpisanych telefonów w centrali</string>
+    <string name="Ok">Ok</string>
+    <string name="Stan_centrali">Stan centrali</string>
+    <string name="Botton_On">Włączony</string>
+    <string name="Button_Off">Wyłączony</string>
+    <string name="sim">Karta SIM</string>
+    <string name="stan_konta">Stan konta:   zł. Ważność konta: </string>
+
+</resources>
